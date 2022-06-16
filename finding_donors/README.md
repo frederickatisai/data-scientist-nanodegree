@@ -1,5 +1,5 @@
 # Finding Donors for CharityML
-Modelling individuals' income using data collected from the 1994 U.S. Census.
+Evaluation and optimization of several supervised learners to identify potential donors and reduce overhead cost of sending mail.
 
 Files included:
 - finding_donors.ipynb and;
